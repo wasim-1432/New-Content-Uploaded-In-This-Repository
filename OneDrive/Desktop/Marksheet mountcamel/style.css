@@ -1,0 +1,36 @@
+h1
+{
+    color:blue;
+    text-align:center;
+}
+h3
+{
+    color:green;
+    text-align:center;
+}
+body
+{
+    border-style:ridge;
+}
+#p1
+{
+    padding-left:175px;
+}
+#p2
+{
+    padding-left:182px;
+}
+#p3
+{
+    border-style:solid;
+}
+
+td
+{
+    text-align: center;
+}
+img
+{
+    padding-top: 20px;;
+    padding-left:450px;
+}
