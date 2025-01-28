@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int Maximum_Number(int a,int b);
-float Maximum_Number(float a,float b);
+int Maximum_Number(float a,float b);
 int main()
 {
     int a,b;
@@ -26,7 +26,7 @@ int Maximum_Number(int a,int b)
         cout<<"Maximum number is="<<b<<endl;
     }
 }
-float Maximum_Number(float a,float b)
+int Maximum_Number(float a,float b)
 {
     if(a>b)
     {
